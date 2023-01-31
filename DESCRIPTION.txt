@@ -1,0 +1,14 @@
+Package: wildbeheer-vespawatch
+Maintainer: Jasmijn Hillaert <jasmijn.hillaert@inbo.be>
+License: MIT + file LICENSE
+Title: vespawatch-app
+Type: Package
+Author: Jasmijn Hillaert, Sander De Visscher
+Description: Automatisation Vespawatch app 
+Version: 0.0.1
+Date: 2022-02-12
+Imports:
+Depends: 
+Suggests:
+Encoding: UTF-8
+RoxygenNote: 7.1.2
